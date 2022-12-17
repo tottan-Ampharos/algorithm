@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(void) {
-    
+    // 書きたい
 
     return 0;
 }
